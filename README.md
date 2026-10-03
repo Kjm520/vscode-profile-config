@@ -1,1 +1,1 @@
-A shareable version of my VS Code profile config
+A sanitized/shareable version of my VS Code profile config
